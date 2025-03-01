@@ -36,6 +36,20 @@ Welcome to **Zyphernix Security**, your trusted partner in **blockchain security
 
 ---
 
+## 🔗 **Our Web3 Development Services**
+
+At Zyphernix, we are pioneers in Web3 development, empowering businesses and startups with secure, scalable, and decentralized solutions. From smart contracts to dApps, DeFi platforms, NFTs, and DAOs, we help you navigate and build in the blockchain ecosystem with confidence.
+
+✅ **Smart Contract Development** – Secure, gas-optimized, and rigorously tested contracts in Solidity, Rust, Move, Cairo and Vyper.  <br>
+✅ **Decentralized Applications (dApps)** – Scalable and user-friendly dApps on Ethereum, Polygon, Solana, BSC, and Layer 2s.  <br>
+✅ **DeFi Solutions** – Yield farming, liquidity pools, staking mechanisms, and decentralized exchanges (DEXs).  <br>
+✅ **NFT Development** – NFT smart contracts, marketplaces, and metaverse integrations.  <br>
+✅ **DAO Development** – Governance models, voting mechanisms, and treasury management.  <br>
+✅ **Cross-Chain & Interoperability Solutions** – Seamless integration across multiple blockchains.  <br>
+✅ **Tokenomics & Token Development** – Custom ERC-20, ERC-721, ERC-1155, SPL, BEP-20 tokens with staking & rewards.  <br>
+
+---
+
 ## 📬 **Get in Touch**
 📧 **Email:** [hello@zyphernix.com](mailto:hello@zyphernix.com)  
 🌐 **Website:** [Zyphernix Security](https://zyphernix.com)  
